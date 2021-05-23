@@ -19,3 +19,7 @@ footer{
 .spacer{
     margin-top: 5rem;
 }
+
+a, a:visited {
+    color: white;
+}
